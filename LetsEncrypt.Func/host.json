@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   // max possible, better play it safe
-  "functionTimeout": "00:10:00",
+  "functionTimeout": "00:05:00",
   // https://github.com/Azure/Azure-Functions/issues/1256#issuecomment-505478565
   "logging": {
     "logLevel": {
